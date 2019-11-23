@@ -1,0 +1,19 @@
+.roll-dice {
+  display: flex;
+  flex-flow: column nowrap;
+}
+.roll-dice-dies {
+}
+.roll-dice-button {
+  align-self: center;
+  width: 15em;
+  padding: 1.5em;
+  border: 0px;
+  border-radius: 10px;
+  color: white;
+  background: black;
+}
+.roll-dice-button:hover {
+  background: blueviolet;
+  cursor: pointer;
+}
